@@ -1,4 +1,4 @@
-﻿<h1>Flap Bird Clone</h1> 
+﻿<h1>Flappy Bird Game</h1> 
 
 ## Project description
 
@@ -17,4 +17,4 @@
 
 - [C#]
 
-Copyright :copyright: 2023 - Flap Bird Clone
+Copyright :copyright: 2023 - Flappy Bird Game
